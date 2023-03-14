@@ -1,16 +1,13 @@
-### Hi there 👋
+# Fala pessoal, me chamo Célio!
 
-<!--
-**celioalves/celioalves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  #### Seja bem vindo ao meu perfil no GitHub. Que tem como objetivo compartilhar um pouco da minha experiência com todos vocês. 
 
-Here are some ideas to get you started:
+---
+Atualmente estou no meio de uma transição de carreiras, sou formado em direito (advogado), mas sempre fui amante do mundo 'tech'.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Assim, resolvi 'largar' tudo da minha área de formação e buscar os meus sonhos nesse mundo um tanto quanto complicado da programação.
+
+---
+🔭 Hoje, estou apenas estudando, ou seja, desempregado.<br/>
+🌱 Estudando (utilizando o método T), buscando me aprofundar em Python.<br/> 
+📫 Se precisar entrar em contato comigo: __craftsman7@gmail.com__
