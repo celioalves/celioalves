@@ -1,6 +1,7 @@
 # Fala pessoal, me chamo Célio!
 
-  #### Seja bem vindo ao meu perfil no GitHub. Que tem como objetivo compartilhar um pouco da minha experiência com todos vocês. 
+  #### Seja bem vindo ao meu perfil no GitHub. Que tem como objetivo compartilhar um pouco da minha experiência com todos vocês.</br>
+  #### Aproveite que está por aqui, e dê uma olhada nos meus projetos! Também, passe seu feedback, busco sempre melhorar.
 
 ---
 Atualmente estou no meio de uma transição de carreiras, sou formado em direito (advogado), mas sempre fui amante do mundo 'tech'.
