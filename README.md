@@ -15,7 +15,7 @@ Olá! Meu nome é **Célio da Silva Alves Júnior**. Sou estudante de Análise e
 - **[Aprenda a Programar em Python com Orientação a Objetos](https://cursos.alura.com.br/degree/certificate/38253b23-06d7-4104-b1d7-036ce9c25187?lang=pt_BR)** - Alura, 2023
 - **[Django REST APIs: Crie Aplicações REST em Python](https://cursos.alura.com.br/degree/certificate/47d4b4ca-75c5-4147-a795-499cd620eb21?lang=pt_BR)** - Alura, 2023
 - **[Git e GitHub: Controle e Compartilhe Seu Código](https://cursos.alura.com.br/certificate/5bdb029e-7830-419c-9aa7-c2087952ebd4?lang=pt_BR)** - Alura, 2023
-- **[TE CONVIDO A CLICAR AQUI PARA ACESSAR MAIS CERTIFICADOS](https://github.com/celioalves/-Cursos/tree/main#readme)**
+- **[TE CONVIDO A CLICAR AQUI PARA ACESSAR MAIS CERTIFICADOS](https://github.com/celioalves/-Cursos/tree/main#-programa%C3%A7%C3%A3o)**
 
 ### Cursos Complementares
 - **Banco de Dados Relacionais e Não Relacionais** - Udemy, 2024
